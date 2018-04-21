@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1522043055 source:e:\501\simulation_501\20180308\main.cpp
+	<iostream>
+	"recharge.h"
+
+1522043882 e:\501\simulation_501\20180308\recharge.h
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cmath>
+	<cstdio>
+	<cstring>
+	<deque>
+	<iostream>
+	<map>
+	<queue>
+	<set>
+	<stack>
+	<string>
+	<vector>
+
